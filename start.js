@@ -210,3 +210,4 @@ handleHtml = function() {
     initEvents();
     reqHandler.start(' http://www.kujiale.com/case');
 }();
+
